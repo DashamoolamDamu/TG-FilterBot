@@ -13,15 +13,15 @@ class script(object):
    ᴍᴇ😌- <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
 🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> ɴɪsʜᴀɴ💫 </a>
 🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ✨ </a>
-📚 ʟɪʙʀᴀʀʏ - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-☀️ ʟᴀɴɢᴜᴀɢᴇ - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-🏳️ ʙᴏᴛ sᴇʀᴠᴇʀ-  𝙷𝙴𝚁𝙾𝙺𝚄
-🆔 ʙᴜɪʟᴅ sᴛᴀᴛᴜs - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
+📚 ʟɪʙʀᴀʀʏ - PYROGRAM 
+☀️ ʟᴀɴɢᴜᴀɢᴇ - PYTHON 3
+🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - MONGODB 
+🏳️ ʙᴏᴛ sᴇʀᴠᴇʀ-  HEROKU
+🆔 ʙᴜɪʟᴅ sᴛᴀᴛᴜs - v1.0.1 [ BETA ]
           ━━━━━━━━━━━━━━━"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 - <a href="https://github.com/botxeditor/Cv_autofil_bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/VintageBotz"> 𝖵𝖨𝖭𝖳𝖠𝖦𝖤 𝖡𝖮𝖳𝖹🤎 </a>"""
