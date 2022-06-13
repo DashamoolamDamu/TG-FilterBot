@@ -5,14 +5,14 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
-𝗜𝗧'𝗦 𝗔𝗡𝗡𝗔 𝗕𝗘𝗡'𝗦 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
+𝗜𝗧'𝗦 𝗠𝗬 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ━━━━━━━━━━━━━━━━━━━━━━
         
    𝙎𝙤𝙢𝙩𝙝𝙞𝙣𝙜 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚!!😉
 
-   ᴍᴇ😌- <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
-🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> ɴɪsʜᴀɴ💫 </a>
-🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ✨ </a>
+   ᴍᴇ😌- <a href="http://t.me/CVAutofil_Bot"> ME </a>
+🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> NISHAN🦁 </a>
+🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> VINTAGE BOTZ </a>
 📚 ʟɪʙʀᴀʀʏ - PYROGRAM 
 ☀️ ʟᴀɴɢᴜᴀɢᴇ - PYTHON 3
 🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - MONGODB 
