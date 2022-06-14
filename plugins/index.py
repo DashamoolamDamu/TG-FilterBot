@@ -76,10 +76,10 @@ async def send_for_index(bot, message):
         link = f"@{message.forward_from_chat.username}"
     buttons = [
         [
-            InlineKeyboardButton('Accept Index', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
+            InlineKeyboardButton('✅Accept Index', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
         ],
         [
-            InlineKeyboardButton('Reject Index', callback_data=f'index#reject#{chat_id}#{message.message_id}#{message.from_user.id}'),
+            InlineKeyboardButton('❌Reject Index', callback_data=f'index#reject#{chat_id}#{message.message_id}#{message.from_user.id}'),
         ]
         ]
     reply_markup = InlineKeyboardMarkup(buttons)
