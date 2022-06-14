@@ -10,14 +10,14 @@ class script(object):
         
    𝙎𝙤𝙢𝙩𝙝𝙞𝙣𝙜 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚!!😉
 
-   ᴍᴇ😌- <a href="http://t.me/CVAutofil_Bot"> ME </a>
-🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> NISHAN🦁 </a>
-🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> VINTAGE BOTZ </a>
-📚 ʟɪʙʀᴀʀʏ - PYROGRAM 
-☀️ ʟᴀɴɢᴜᴀɢᴇ - PYTHON 3
-🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - MONGODB 
-🏳️ ʙᴏᴛ sᴇʀᴠᴇʀ-  HEROKU
-🆔 ʙᴜɪʟᴅ sᴛᴀᴛᴜs - v1.0.1 [ BETA ]
+   ᴍᴇ😌- <a href="http://t.me/CVAutofil_Bot"> ᴍᴇ </a>
+🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> نشان × </a>
+🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ </a>
+📚 ʟɪʙʀᴀʀʏ - ᴘʏʀᴏɢʀᴀᴍ 
+☀️ ʟᴀɴɢᴜᴀɢᴇ - ᴘʏᴛʜᴏɴ 3
+🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - ᴍᴏɴɢᴏ ᴅʙ 
+🏳️ ʙᴏᴛ sᴇʀᴠᴇʀ-  ʜᴇʀᴏᴋᴜ
+🆔 ʙᴜɪʟᴅ sᴛᴀᴛᴜs - v1.0.1 [ ʙᴇᴛᴀ ]
           ━━━━━━━━━━━━━━━"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
