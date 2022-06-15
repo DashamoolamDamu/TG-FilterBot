@@ -10,9 +10,10 @@ class script(object):
         
    𝙎𝙤𝙢𝙩𝙝𝙞𝙣𝙜 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚!!😉
 
-   ᴍᴇ😌- <a href="http://t.me/CVAutofil_Bot"> ᴍᴇ </a>
+
 🦁 ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> نشان × </a>
-🤝🏻 sᴜᴘᴘᴏʀᴛ/ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ </a>
+💡ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ </a>
+🤝🏻sᴜᴘᴘᴏʀᴛ - <a href="https://t.me/vbotzsupport"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ sᴜᴘᴘᴏʀᴛ </a>
 📚 ʟɪʙʀᴀʀʏ - ᴘʏʀᴏɢʀᴀᴍ 
 ☀️ ʟᴀɴɢᴜᴀɢᴇ - ᴘʏᴛʜᴏɴ 3
 🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - ᴍᴏɴɢᴏ ᴅʙ 
