@@ -22,7 +22,7 @@ class script(object):
           ━━━━━━━━━━━━━━━"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ⚡. 
-- 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 - <a href="https://t.me/naaleaavatte/4"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 - <a href="https://t.me/joinchat/aYbIjDgZqY9lYjQ9"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/aboutme_offline"> 👻👨🏻‍💻🦸🏻‍♂️ </a>"""
