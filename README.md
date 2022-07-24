@@ -1,11 +1,15 @@
 # 𝖱ᴏᴄᴋʏ 𝖡ʜᴀɪ
 Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝖱ᴏᴄᴋʏ 𝖡ʜᴀɪ!;created+by+𝐯𝐢𝐧𝐭𝐚𝐠𝐞 𝐛𝐨𝐭𝐳!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+
+# 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://github.com/OFFLINE-BOy/TG-FilterBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 </p>
-# 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
-
-
-[![Deploy](https://telegra.ph/%F0%9D%96%B1%E1%B4%8F%E1%B4%84%E1%B4%8B%CA%8F-%F0%9D%96%A1%CA%9C%E1%B4%80%C9%AA-06-14)](https://heroku.com/deploy?template=https://github.com/botxeditor/Cv_autofil_bot)
 
 - [x] Auto Filter
 - [x] Manuel Filter
