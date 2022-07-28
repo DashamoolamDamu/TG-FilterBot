@@ -11,9 +11,9 @@ class script(object):
    𝙎𝙤𝙢𝙩𝙝𝙞𝙣𝙜 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚!!😉
 
 
-👷🏻‍♂️ ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/nishn_ea"> 🦁 </a>
+👷🏻‍♂️ ᴄʀᴇᴀᴛᴏʀ/ᴅᴇᴠᴏʟᴘᴇʀ - <a href="https://t.me/Damu_Ramanan"> 🦁 </a>
 💡ᴜᴘᴅᴀᴛᴇs - <a href="https://t.me/VintageBotz"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ </a>
-🤝🏻sᴜᴘᴘᴏʀᴛ - <a href="https://t.me/vbotzsupport"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ sᴜᴘᴘᴏʀᴛ </a>
+🤝🏻sᴜᴘᴘᴏʀᴛ - <a href="https://t.me/tgbot_supportgroup"> ᴠɪɴᴛᴀɢᴇ ʙᴏᴛᴢ sᴜᴘᴘᴏʀᴛ </a>
 📚 ʟɪʙʀᴀʀʏ - ᴘʏʀᴏɢʀᴀᴍ 
 ☀️ ʟᴀɴɢᴜᴀɢᴇ - ᴘʏᴛʜᴏɴ 3
 🗃️ ᴅᴀᴛᴀ ʙᴀsᴇ - ᴍᴏɴɢᴏ ᴅʙ 
@@ -25,7 +25,7 @@ class script(object):
 - 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 - <a href="https://t.me/joinchat/aYbIjDgZqY9lYjQ9"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/aboutme_offline"> 👻👨🏻‍💻🦸🏻‍♂️ </a>"""
+<a href="https://t.me/damu_ramanan"> 👻👨🏻‍💻🦸🏻‍♂️ </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
