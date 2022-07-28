@@ -421,7 +421,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption
                     )
                 btn = [[
-                    InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀", url='https://t.me/CinemaVeedMovies')
+                    InlineKeyboardButton("ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀", url='https://t.me/cinemaclubmoviezz')
                 ]]
                 reply_markup = InlineKeyboardMarkup(btn)
                 bb = await query.message.reply_text(
@@ -469,7 +469,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/CVAutofil_Bot?startgroup=true')
+            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dashamoolam_tg_bot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/vbotzsupport')
